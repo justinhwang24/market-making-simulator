@@ -26,7 +26,7 @@ This project implements a realistic market making simulator comparing an **adapt
 | Informed Trades Faced      | 162         | 381             |
 | Hit Rate (%)               | 95.9%       | 91.1%           |
 
-> Adaptive strategy reduces risk, increases PnL, and deters informed trading.
+Adaptive strategy reduces risk, increases PnL, and deters informed trading.
 
 ## Grid Search
 
