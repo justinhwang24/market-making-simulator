@@ -30,7 +30,7 @@ Adaptive strategy reduces risk, increases PnL, and deters informed trading.
 
 ## Grid Search
 
-Ran grid search over 9 spread-skew combinations to maximize Sharpe:
+Ran grid search over 9 spread-skew combinations to maximize Sharpe ratio.
 
 | Spread | Skew=0.005 | Skew=0.010 | Skew=0.020 |
 |--------|------------|------------|------------|
@@ -38,4 +38,4 @@ Ran grid search over 9 spread-skew combinations to maximize Sharpe:
 | 0.2    | 0.7963     | 1.4053     | **2.2085** |
 | 0.3    | 0.6928     | 1.2119     | 2.1703     |
 
-Optimal configuration: **Spread = 0.2**, **Skew = 0.02**
+The optimal configuration was observed to be **Spread = 0.2** and **Skew = 0.02**.
